@@ -70,7 +70,9 @@ class App extends React.Component {
             <div className="sidebar">Cart Items</div>
           </div>
         </main>
-        <footer>All right is reserved.</footer>
+        <footer>
+        All rights is reserved. | By  <a className="bedran" href="https://bedrantirak.github.io/"> Bedran</a>
+        </footer>
       </div>
     );
   }
