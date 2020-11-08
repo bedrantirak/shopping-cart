@@ -1,9 +1,7 @@
 import React from 'react'
-<<<<<<< Updated upstream
-=======
 import Filter from './components/Filter';
 import Products from './components/Products';
->>>>>>> Stashed changes
+
 import data from "./data.json"
 
 class App extends React.Component{
@@ -58,9 +56,7 @@ class App extends React.Component{
         <main>
           <div className="content">
             <div className="main">
-<<<<<<< Updated upstream
            Products
-=======
               <Filter 
               count={this.state.products.length} 
               size={this.state.size}
@@ -69,7 +65,6 @@ class App extends React.Component{
               sortProducts={this.sortProducts}
               />
              <Products products={this.state.products}/>
->>>>>>> Stashed changes
             </div>
             <div className="sidebar">
             Cart Items
