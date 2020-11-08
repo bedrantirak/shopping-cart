@@ -63,8 +63,7 @@ footer{
 }
 .sidebar{
   flex:1 20rem;
-<<<<<<< Updated upstream
-=======
+
 }
 /*products*/
 .products{
@@ -126,5 +125,4 @@ footer{
 }
 .filter div{
   flex: 1;
->>>>>>> Stashed changes
 }
