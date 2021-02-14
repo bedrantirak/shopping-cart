@@ -33,7 +33,7 @@ class App extends React.Component {
           </div>
         </main>
         <footer>
-        All rights is reserved. | By  <a className="bedran" href="https://bedrantirak.github.io/"> Bedran</a>
+        All rights is reserved. | By  <a className="bedran" href="https://webolsa.com/"> WebOlsa</a>
         </footer>
       </div>
       </Provider>
